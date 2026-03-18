@@ -143,7 +143,7 @@ Unauthorized packet sniffing is **illegal** and unethical.
 - **Name:** [Ahlam]  
 - **Internship:** CodeAlpha Cybersecurity Internship  
 - **LinkedIn:** [Your LinkedIn Profile]  
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** [https://github.com/ahlamkhan903-pixel/CodeAlpha_NetworkSniffer/blob/main/network_sniffer.py]
 
 ---
 
