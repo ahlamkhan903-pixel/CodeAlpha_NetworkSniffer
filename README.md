@@ -1,6 +1,6 @@
 # CodeAlpha — Basic Network Sniffer
 
-A Python-based network packet sniffer built as part of the **CodeAlpha Cybersecurity Internship **.
+A Python-based network packet sniffer built as part of the CodeAlpha Cybersecurity Internship.
 
 ---
 
