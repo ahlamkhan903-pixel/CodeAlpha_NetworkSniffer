@@ -29,7 +29,7 @@ Built using **Python** and the **Scapy** library.
 
 **Step 1 — Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_NetworkSniffer.git
+git clone https://github.com/ahlamkhan903-pixel/CodeAlpha_NetworkSniffer.git
 cd CodeAlpha_NetworkSniffer
 ```
 
@@ -140,7 +140,7 @@ Unauthorized packet sniffing is **illegal** and unethical.
 
 ## 👤 Author
 
-- **Name:** [Your Name]  
+- **Name:** [Ahlam]  
 - **Internship:** CodeAlpha Cybersecurity Internship  
 - **LinkedIn:** [Your LinkedIn Profile]  
 - **GitHub:** [Your GitHub Profile]
